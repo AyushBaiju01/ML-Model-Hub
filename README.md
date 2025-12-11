@@ -2,6 +2,12 @@
 
 A Streamlit web app that allows users to upload a dataset and run different Machine Learning models instantly.
 
+# Team Members
+Ayush Baiju
+Rafan Riyaz
+Karthi A P
+Adhil Navas
+
 ## 🚀 Features
 - Upload CSV datasets
 - Choose target column
