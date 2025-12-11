@@ -25,5 +25,7 @@ A Streamlit web app that allows users to upload a dataset and run different Mach
 
 2. Run the app:
 
+streamlit run app.py
+
 ## 🎯 Use Case
 Perfect for beginners wanting to test ML models without heavy coding.
