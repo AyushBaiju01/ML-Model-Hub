@@ -11,7 +11,13 @@ A Streamlit web app that allows users to upload a dataset and run different Mach
   - Linear Regression
   - Random Forest Regressor
 - Automatic preprocessing ( null handling + encoding )
-- Model explanation with metrics
+- Model explanation with metrics:
+   - Accuracy
+   - MSE
+   - RMSE
+   - R² Score
+- Automatic explanation of results
+- Smooth beginner-friendly interface built using Streamlit
 
 ## 🛠️ Technologies Used
 - Python
@@ -25,7 +31,7 @@ A Streamlit web app that allows users to upload a dataset and run different Mach
 
 2. Run the app:
 
-_run this command to run the app
+*run this command to run the app* 
    `streamlit run app.py`
 
 ## 🎯 Use Case
